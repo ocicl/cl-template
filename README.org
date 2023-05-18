@@ -1,0 +1,10 @@
+* cl-template
+
+Simple, output-agnostic template engine for Common Lisp, inspired by
+ERb.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/alpha123/cl-template.git |
+| commit  | 46193a9                                         |
+| systems | cl-template                                     |
+|---------+-------------------------------------------------|
